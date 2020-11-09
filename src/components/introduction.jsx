@@ -13,8 +13,8 @@ export default class Introduction extends Component {
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
-                        <div className="desc">
-                          <h1>Hi! <br />I'm Kaushik</h1>
+                        <div className="desc" style={{borderRight:"5px solid",paddingRight:"10px"}}>
+                         <marquee> <h1>Hi! I'm Kaushik</h1></marquee>
                           <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1J9GXAUO9qIBH8kOWieG24HaN0WG3cWth/edit" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
@@ -27,10 +27,10 @@ export default class Introduction extends Component {
                 <div className="container-fluid">
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
-                      <div className="slider-text-inner">
-                        <div className="desc">
-                          <h1>I love building<br /> THINGS !!</h1>
-                          <p><a className="btn btn-primary btn-learn" /* href="https://github.com/dbarochiya" */ target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
+                      <div className="slider-text-inner js-fullheight">
+                        <div className="desc" style={{borderRight:"5px solid",paddingRight:"10px"}}>
+                        <marquee> <h1>Hi! I'm Kaushik</h1></marquee>
+                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1J9GXAUO9qIBH8kOWieG24HaN0WG3cWth/edit" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
