@@ -15,33 +15,19 @@ export default class Gallery extends Component {
                         <div class="row">
                             <div class="column">
                                     <img src="images/p1.jpg" style={{ width: "100%" }} />
-                                    <img src="images/p2.jpg" style={{ width: "100%" }} />
-                                    <img src="images/p3.png" style={{ width: "100%" }} />
-                                    <img src="images/p16.png" style={{ width: "100%" }} />
-                                    <img src="images/p4.jpg" style={{ width: "100%" }} />
-                                    
+                                    <img src="images/p2.jpg" style={{ width: "100%" }} />                                    
                                 </div>
                                 <div class="column">
-                                    <img src="images/p19.png" style={{ width: "100%" }} />
                                     <img src="images/p6.jpg" style={{ width: "100%" }} />
                                     <img src="images/p.png" style={{ width: "100%" }} />
-                                    <img src="images/p8.png" style={{ width: "100%" }} />
-                                    <img src="images/p7.png" style={{ width: "100%" }} />
                                     {/* <img src="images/p14.png" style={{ width: "100%" }} /> */}
                                 </div>
                                 <div class="column">
-                                    <img src="images/p1.jpg" style={{ width: "100%" }} />
-                                    <img src="images/p10.png" style={{ width: "100%" }} />
                                     <img src="images/p17.png" style={{ width: "100%" }} />
-                                    <img src="images/p18.png" style={{ width: "100%" }} />
-                                    <img src="images/p13.png" style={{ width: "100%" }} />
-
+                                    <img src="images/p3.png" style={{ width: "100%" }} />
                                 </div>
                                 <div class="column">
-                                    <img src="images/p11.png" style={{ width: "100%" }} />
                                     <img src="images/p12.png" style={{ width: "100%" }} />
-                                    <img src="images/p13.png" style={{ width: "100%" }} />
-                                    <img src="images/p5.jpg" style={{ width: "100%" }} />
                                     <img src="images/p15.png" style={{ width: "100%" }} />
                                 </div>
                             </div>
