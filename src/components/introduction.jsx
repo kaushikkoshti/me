@@ -15,7 +15,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc" style={{borderRight:"5px solid",paddingRight:"10px"}}>
                          <marquee> <h1>Hi! I'm Kaushik</h1></marquee>
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1J9GXAUO9qIBH8kOWieG24HaN0WG3cWth/edit" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1yG3aPbt8y3z7nvVFoPrli7fECRhGkNXnx8Cca4dKXpM/edit" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -30,7 +30,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc" style={{borderRight:"5px solid",paddingRight:"10px"}}>
                         <marquee> <h1>Hi! I'm Kaushik</h1></marquee>
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1J9GXAUO9qIBH8kOWieG24HaN0WG3cWth/edit" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1yG3aPbt8y3z7nvVFoPrli7fECRhGkNXnx8Cca4dKXpM/edit" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
